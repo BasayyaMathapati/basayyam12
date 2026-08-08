@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/basayyamathapati-8a8b3762">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:basayyam12@gmail.com">
+  <a href="mailto:BasayyaMathapati@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Bangalore,_India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=basayyam12&label=Profile%20Views&color=6a5acd&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=BasayyaMathapati&label=Profile%20Views&color=6a5acd&style=for-the-badge" />
 </p>
 
 ---
@@ -105,12 +105,12 @@ Certification: AUTOSAR Adaptive - Certified Embedded Associate (Vector GmbH)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=basayyam12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basayyam12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BasayyaMathapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasayyaMathapati&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basayyam12&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasayyaMathapati&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -120,5 +120,5 @@ Certification: AUTOSAR Adaptive - Certified Embedded Associate (Vector GmbH)
 </p>
 
 <p align="center">
-  📫 Reach me at <a href="mailto:basayyam12@gmail.com">basayyam12@gmail.com</a> · <a href="https://linkedin.com/in/basayyamathapati-8a8b3762">LinkedIn</a>
+  📫 Reach me at <a href="mailto:BasayyaMathapati@gmail.com">BasayyaMathapati@gmail.com</a> · <a href="https://linkedin.com/in/basayyamathapati-8a8b3762">LinkedIn</a>
 </p>
